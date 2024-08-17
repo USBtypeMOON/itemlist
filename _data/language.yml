@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'Предметы'
+events_tab: 'События'
+traits_tab: 'Черты'
+animals_tab: 'Животные'
+weapons_tab: 'Оружие'
+pawn_kinds_tab: 'Виды пешек'
 
 # Table headers
 mod_name_header: Mod Name
@@ -13,9 +13,9 @@ version_header: Version
 command_name_header: Command Name
 user_level_header: User Level
 description_header: Description
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
+cost_header: Стоимость
+category_header: Категоиря
+karma_type_header: Вид кармы
 add_cost_header: Add Cost
 remove_cost_header: Remove Cost
 name_header: Name
